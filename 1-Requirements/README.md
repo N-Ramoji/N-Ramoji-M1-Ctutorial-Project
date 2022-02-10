@@ -7,23 +7,23 @@ A countdown timer can be defined as a virtual clock that counts down from a cert
 
 # HIGH LEVEL REQUIREMENTS:
 
-⚫Start and finish when you need them.
+* Start and finish when you need them.
 
-⚫Flexible time period.
+* Flexible time period.
 
-⚫Adaptive size of the element.
+* Adaptive size of the element.
 
 # LOW LEVEL REQUIREMENTS:
   
-⚫Countdown timer is great for to create a countdown widget that will speedup visitors buying decisions.
+* Countdown timer is great for to create a countdown widget that will speedup visitors buying decisions.
 
-⚫Start and finish the numberS.
+* Start and finish the numberS.
 
-⚫Holiday themes for stunning.
+* Holiday themes for stunning.
 
 # DESIGN OBJECTIVES:
         
-⚫The primary objective of the design of course, is to deliver the requirements as specifeid already.
+* The primary objective of the design of course, is to deliver the requirements as specifeid already.
 
 # DESIGN PROCESS:
       
