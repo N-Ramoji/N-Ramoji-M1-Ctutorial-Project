@@ -20,11 +20,11 @@
 
         Holiday themes for stunning look.
 
-  <h1>Design objectives:<h1>
+    Design objectives:
         
         The primary objective of the design of course, is to deliver the requirements as specifeid already.
 
-   <h1>Design process:<h1>
+    Design process:
       
         The tool used for writing the code in this project is visual studio code.
          
