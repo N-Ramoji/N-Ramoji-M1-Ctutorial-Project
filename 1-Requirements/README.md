@@ -27,7 +27,7 @@ A countdown timer can be defined as a virtual clock that counts down from a cert
 
 # DESIGN PROCESS:
       
-⚫The tool used for writing the code in this project is visual studio code.
+* The tool used for writing the code in this project is visual studio code.
 
 
          
