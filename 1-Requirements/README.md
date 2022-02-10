@@ -7,9 +7,7 @@
 <b>High level requirements:<b>
 
         Start and finish when you need them.
-
         Flexible time period.
-
         Adaptive size of the element.
 
 <b>Low level requirements:<b>
