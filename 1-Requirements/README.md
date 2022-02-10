@@ -17,7 +17,7 @@ LOW LEVEL REQUIREMENTS:
   
 ⚫Countdown timer is great for to create a countdown widget that will speedup visitors buying decisions.
 
-⚫Start and finish the numbers.
+⚫Start and finish the numberS.
 
 ⚫Holiday themes for stunning.
 
