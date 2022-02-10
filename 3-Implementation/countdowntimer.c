@@ -15,17 +15,17 @@ int timer()
     while(!kbhit()&& flag==0){
         if(ss>59)
         {
-            ss==0;
+            ss=0;
             ++mm;
         }
-        if(mm>59)
+           if(mm>59)
         {
-            mm==0;
+            mm=0;
             ++hh;
         }
         if(hh>24)
         {
-            hh==0;
+            hh=0;
             ++dd;
         }
         printtime();
