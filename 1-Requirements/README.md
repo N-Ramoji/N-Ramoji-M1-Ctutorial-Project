@@ -5,7 +5,7 @@
        A countdown timer can be defined as a virtual clock that counts down from a certain date or number to indicate the end or beginning of an offer or event. Timers used for measuring specific time intervals.
 
 <b>High level requirements:
-        Start and finish when you need them.
+        Start and finish when you need them.\n
         Flexible time period.
         Adaptive size of the element.<b>
 
