@@ -34,15 +34,6 @@ int timer()
     }
     select();
 }
-int printtime()
-{
-    system("cls");
-    printf("1.start 2.stop 3.reset 4.End\n");
-    printf("-------------------------------\n");
-    printf("       %d:%d:%d:%d\n",dd,hh,mm,ss);
-    printf("-------------------------------\n");
-
-}
 int select()
 {
     switch(getch())
@@ -63,6 +54,15 @@ int select()
         break;
 
     }
+}
+int printtime()
+{
+    system("cls");
+    printf("1.start 2.stop 3.reset 4.End\n");
+    printf("-------------------------------\n");
+    printf("       %d:%d:%d:%d\n",dd,hh,mm,ss);
+    printf("-------------------------------\n");
+
 }
 int main()
 {
