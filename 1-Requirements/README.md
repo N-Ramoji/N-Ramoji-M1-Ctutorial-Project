@@ -24,6 +24,7 @@ A countdown timer can be defined as a virtual clock that counts down from a cert
 # DESIGN OBJECTIVES:
         
 * The primary objective of the design of course, is to deliver the requirements as specifeid already.
+* It is simple and easy to understand and to use.
 
 # DESIGN PROCESS:
       
